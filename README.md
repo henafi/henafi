@@ -27,6 +27,6 @@ henrik@ionodev.com
 ### Stats
 
 <p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=henafi&theme=default" alt="Most commit language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=henafi&theme=default&utcOffset=1" alt="Productive time" />
 </p>
-
