@@ -1,34 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="100%" height="200">
-  <defs>
-    <linearGradient id="aurora" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#b400ff"/>
-      <stop offset="50%" stop-color="#0aa344"/>
-      <stop offset="100%" stop-color="#39ff14"/>
-    </linearGradient>
-    <style>
+
+      <svg
+        width="854"
+        height="200"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        style="z-index:1;position:relative"
+        viewBox="0 0 854 200"
+      >
+        <style>
       @font-face {
         font-family: 'Orbitron';
         font-weight: 700;
         font-style: normal;
         src: url(data:font/woff2;base64,d09GMgABAAAAAAQ8ABAAAAAACIgAAAPgAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbgTocKAZgP1NUQVQqAHQRCAqEOIMlCxoAATYCJAMwBCAFhEoHIAwHG8MGyAQe3vf++52kOfDIHXUo9kLqGUjr33gSPqVcv9/K4KEw3SSExP5Fl8cM1UQjJVkoVIgk8bubLl6qLMM7rOrahVoEEEEiycsVAj+J+oeF6MJA5OSpsxcTy9pQlEMMq6Plx6jIdAtyCMSca2whCSCoJdJ+PwWksZTZjGQwnZAUtOuDhcLPi22LETTTESjzc12b+QZt3sXHevzmL0Bu8z/D/OikwWVbEKBZffVPBMzfyCEoABsEmYMjagycBTiX6sgt8gG6R+6Uy4FZ4WqxloFiNZatjpamJlwTSzvmzps7hfPYFKhfTJSKq1/4Zf1p5GT5BkP2KnEXvNDUr22LLE1NK+qCiHFhyQc7b0cAJKaQvRbrw8cmUFjYdKM3M3BJJ5McCuBjjWg6P/sJ5mfztfnU3DVnzSlz0pwwRyeZbFULhDHEGTx/e0sadsh+QWC3ujILGKyDydBiPxdaR6yWIa0T7ZrEAjoqNuroaqEjVliHZVSFrZCKyLCmD4R3vvaUUPVPvx6O7nr1ybFer+5IOEpkZVTUHw1Fdh4mLHTYWitEmLDwh2V4WZjFSwgtDdU64hjrZEjVHw2Fdh6OZ8JCRxuckSKOQuQcS/qL1D3xyrrwUV/wMq+/0vEiu7fvZsQbya4fdE0KL0TPN7w3eOi8u8bp76x51xnhfDvH+eilBTpFP/Ke9i2Ztk6n6H7sTzGYyd7khmqSXpKhSO9s6muf7+7y3X/f/tdl12ufp37BUCa/3u3dOc69hpu6RL+uU/TN5E3a8UYMLY6nh/Xf824OZr/Jd91z1nzbdaI3JntuiIfxiju2vMPIOLe8MyAhbZ849yf76rr46N8CSv1QFXlJRQeERz/tsOiQmWJ8uqX6AIHvKnEEeDk31uvMlP/+1C2vwUdHxK80VYsYwXv0lDcYxGcMllsZqt5iqLzDUBliMF8zlF8YJQaC2CzCIjSTsIbCC+0JUXOB3VZQ9P/Oe6lakOA5ePzsEa1W9Gev2qI1RTwtWsnzicarYgwm4hSXFmmyhqNlzyCbShpFbnkReYykn7CvkE0UkE4eRRTSl74nnSz6kksBqfRjHlOZLZYXsJF0ikT9XHLow8TuLDazFJcCAqj7bZuB9KU//RmgSeyR9v86irnMYy5TGDW8JZzYap8kePMoh47rgqlhyL8ajs1i0nCxIdD8OJuByyZ07wSK9wTWWyzEpvv+sEKRUknTaRSzUaveRC7Z9Cs9xiULlw2kUoxLLin0G2Jssvoe9MamlLzaZiEuhXuWLsFlM0NTUQBG+1w2kI3LSHp6J9jeTvT9Ck3yUnOagX9X5R1htlyx9gAAAA==) format('woff2');
       }
-      .title {
-        font-family: 'Orbitron', sans-serif;
-        font-weight: 700;
-        font-size: 42px;
-        fill: #FFD700;
-        animation: twinkling 2s ease-in-out infinite;
-      }
-      @keyframes twinkling {
-        0%, 100% { opacity: 1; }
-        50% { opacity: 0.45; }
-      }
+      .text {   font-size: 42px;   font-weight: 700;   font-family: 'Orbitron', -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 20px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  }
+      .text, .desc {   animation: twinkling 4s ease-in-out infinite;  } @keyframes twinkling {   40% {     opacity: 1;   }   50% {     opacity: 0.5;   }   60% {     opacity: 1;   }   70% {     opacity: 0.5;   }   80% {     opacity: 1;   }  }
     </style>
-  </defs>
+        <defs>
+              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#b400ff"/><stop offset="50%" stop-color="#0aa344"/><stop offset="100%" stop-color="#39ff14"/>
+              </linearGradient>
+            </defs>
 
-  <rect x="0" y="0" width="1200" height="200" fill="url(#aurora)"/>
-  <path d="M0,150 C200,190 350,120 600,140 C850,160 1000,110 1200,150 L1200,200 L0,200 Z" fill="#ffffff" opacity="0.12"/>
-  <path d="M0,165 C250,130 450,185 700,155 C900,130 1050,175 1200,150 L1200,200 L0,200 Z" fill="#ffffff" opacity="0.10"/>
+      <g transform="translate(427, 100) scale(1, 1) translate(-427, -100)">
+        <path d="" fill="url(#linear)" opacity="0.4" >
+          <animate
+              attributeName="d"
+              dur="20s"
+              repeatCount="indefinite"
+              keyTimes="0;0.333;0.667;1"
+              calcmod="spline"
+              keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+              begin="0s"
+              values="M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z;M0 0L 0 145Q 213.5 160 427 140T 854 130L 854 0 Z;M0 0L 0 165Q 213.5 135 427 165T 854 130L 854 0 Z;M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z">
+          </animate>
+        </path>
+        <path d="" fill="url(#linear)" opacity="0.4" >
+          <animate
+            attributeName="d"
+            dur="20s"
+            repeatCount="indefinite"
+            keyTimes="0;0.333;0.667;1"
+            calcmod="spline"
+            keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+            begin="-10s"
+            values="M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z;M0 0L 0 150Q 213.5 120 427 120T 854 140L 854 0 Z;M0 0L 0 145Q 213.5 125 427 150T 854 165L 854 0 Z;M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z">
+          </animate>
+        </path>
+      </g>
+         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="40%" class="text" style="fill:#FFD700;" stroke="#none" stroke-width="1" >Hi, I'm Henrik</text>
 
-  <text x="600" y="90" text-anchor="middle" class="title">Hi, I'm Henrik</text>
-</svg>
+      </svg>
