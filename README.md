@@ -6,7 +6,7 @@
 
 </div>
 
-### Projects
+<h3 align="center">Projects</h3>
 
 | Repo | Description |
 |:---:|---|
@@ -22,13 +22,17 @@
 | <h3><a href="https://github.com/henafi/image_analysis_toolkit">image_analysis_toolkit</a></h3> | Python scripts I have used for various image analysis tasks: magnitude/phase spectrum analysis, filtering techniques, composite images, sinogram tomography, template matching, 3D images. |
 | <h3><a href="https://github.com/henafi/signal_processing_toolkit">signal_processing_toolkit</a></h3> | Python scripts I've used for various signal processing problems: LTI filtering, audio effects, spectral analysis, sonar ranging, and a full LIGO gravitational-wave data analysis project. |
 
-### Contact
+<h3 align="center">Contact</h3>
+
+<div align="center">
 
 <h3><a href="mailto:henrik@ionodev.com">henrik@ionodev.com</a></h3>
 
-### Stats
+</div>
 
-<p align="left">
+<h3 align="center">Stats</h3>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=henafi&theme=github_dark&title_color=FFD700&animation=draw" alt="Top languages by repo" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=henafi&theme=github_dark&utcOffset=1&title_color=FFD700&animation=draw" alt="Productive time" />
 </p>
