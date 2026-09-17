@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:b400ff,50:0aa344,100:39ff14&text=Hi,%20I'm%20Henrik&fontColor=FFD700&fontSize=42&animation=twinkling&fontAlignY=40" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFD700&background=00000000&center=true&vCenter=true&width=1000&lines=radar%20%E2%80%94%20signal%20processing%20%E2%80%94%20image%20analysis%20%E2%80%94%20space%20physics)](https://git.io/typing-svg)
 
