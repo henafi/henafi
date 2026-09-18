@@ -21,6 +21,7 @@
 | <h3><a href="https://github.com/ionodev/plasma_physics_toolkit">plasma_physics_toolkit</a></h3> | Python scripts for visualizing plasma physics concepts; charged particle motion, wave dispersion/polarization, plasma frequency-altitude profiles etc. |
 | <h3><a href="https://github.com/ionodev/image_analysis_toolkit">image_analysis_toolkit</a></h3> | Python scripts I have used for various image analysis tasks: magnitude/phase spectrum analysis, filtering techniques, composite images, sinogram tomography, template matching, 3D images. |
 | <h3><a href="https://github.com/ionodev/signal_processing_toolkit">signal_processing_toolkit</a></h3> | Python scripts I've used for various signal processing problems: LTI filtering, audio effects, spectral analysis, sonar ranging, and a full LIGO gravitational-wave data analysis project. |
+| <h3><a href="https://github.com/ionodev/time_series_toolkit">time_series_toolkit</a></h3> | Worked exercises in time series analysis: decomposition, stationarity, smoothing, ARIMA/SARIMA, Kalman filtering, signal filtering, Prophet, neural/reservoir forecasting, nonlinear dynamics, and time series classification. |
 
 <h3 align="center">Stats</h3>
 
