@@ -22,6 +22,13 @@
 | <h3><a href="https://github.com/ionodev/image_analysis_toolkit">image_analysis_toolkit</a></h3> | Python scripts I have used for various image analysis tasks: magnitude/phase spectrum analysis, filtering techniques, composite images, sinogram tomography, template matching, 3D images. |
 | <h3><a href="https://github.com/ionodev/signal_processing_toolkit">signal_processing_toolkit</a></h3> | Python scripts I've used for various signal processing problems: LTI filtering, audio effects, spectral analysis, sonar ranging, and a full LIGO gravitational-wave data analysis project. |
 
+<h3 align="center">Stats</h3>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ionodev&theme=github_dark&title_color=FFD700&animation=draw" alt="Top languages by repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ionodev&theme=github_dark&utcOffset=1&title_color=FFD700&animation=draw" alt="Productive time" />
+</p>
+
 <h3 align="center">Contact</h3>
 
 <div align="center">
@@ -30,11 +37,5 @@
 
 </div>
 
-<h3 align="center">Stats</h3>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ionodev&theme=github_dark&title_color=FFD700&animation=draw" alt="Top languages by repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ionodev&theme=github_dark&utcOffset=1&title_color=FFD700&animation=draw" alt="Productive time" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:39ff14,50:0aa344,100:b400ff&section=footer" width="100%"/>
+
